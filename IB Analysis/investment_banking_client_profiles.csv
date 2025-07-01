@@ -1,0 +1,301 @@
+client_id,client_name,headquarters,industry,founded_year,num_employees,annual_revenue_usd
+C0001,"Sutton, Williams and Barrett",Korea,Technology,1984,11477,696772716.4
+C0002,Taylor Group,Myanmar,Finance,1984,14166,286853195.6
+C0003,Rodriguez-Bell,Malaysia,Technology,1998,70331,227624602.1
+C0004,Green-West,Benin,Consumer Goods,1992,44719,551763454.3
+C0005,"Robinson, Bryant and Jackson",Latvia,Technology,1970,17752,719749500.8
+C0006,Wheeler-Thompson,Morocco,Healthcare,1992,92021,423683353.7
+C0007,Holden-Rogers,Falkland Islands (Malvinas),Energy,1970,268,980783434.2
+C0008,Nunez-Dougherty,Central African Republic,Finance,1961,78378,685144908.9
+C0009,"Parrish, Adams and Torres",Fiji,Finance,1958,914,481450969.6
+C0010,Lopez-Stanton,Jersey,Healthcare,2007,13424,392725400.7
+C0011,Parker-Brown,Morocco,Technology,1961,87493,343834838.1
+C0012,"Kent, Walker and Walsh",Bhutan,Energy,1966,2833,729320657.7
+C0013,Cox-Montgomery,Montenegro,Healthcare,2005,75207,439133672.4
+C0014,"Roberts, Wright and Griffin",Singapore,Finance,1983,61561,60618218.71
+C0015,Calhoun-Williams,Uzbekistan,Technology,1989,45068,398646211.1
+C0016,"Sherman, Gutierrez and Bailey",Greece,Consumer Goods,2011,27163,738257410.3
+C0017,Bauer-Schmidt,New Caledonia,Consumer Goods,2017,74081,183309238.7
+C0018,Perez-Rogers,Netherlands,Healthcare,1951,52247,176276304.4
+C0019,"Peters, Pearson and Gutierrez",Netherlands,Industrials,2015,56985,532019822.5
+C0020,Harrison LLC,Isle of Man,Industrials,2018,83720,532295759.5
+C0021,Smith-Rios,Myanmar,Industrials,2012,68287,634766557.6
+C0022,"Lane, Allen and Dennis",Paraguay,Industrials,2003,49139,849582362.3
+C0023,"Thompson, Matthews and Gray",Egypt,Consumer Goods,1954,98900,724730869.5
+C0024,Gregory-Guzman,Uganda,Industrials,1973,95185,611412487.2
+C0025,Garner-Jones,Algeria,Technology,2012,86305,722720939.2
+C0026,Smith-Martin,Cambodia,Healthcare,1971,43946,323635954.9
+C0027,Kelly LLC,Switzerland,Healthcare,2020,51324,362426867
+C0028,"Perkins, Wells and Payne",United Kingdom,Technology,2008,50860,229034967.7
+C0029,Tucker LLC,Christmas Island,Consumer Goods,1993,2187,294420332.3
+C0030,Wise-Thompson,Cook Islands,Energy,1961,82404,631345147.7
+C0031,Sanders-Mccullough,New Caledonia,Healthcare,1951,46176,93012835.01
+C0032,Rivas Group,Mongolia,Energy,2001,69779,434267471.5
+C0033,Garrett-Andrade,Mauritius,Consumer Goods,1957,83778,431431900.6
+C0034,Gibson-Fox,Solomon Islands,Healthcare,2013,82624,494191412.6
+C0035,Moore-Brooks,Latvia,Industrials,1979,71375,426404460
+C0036,Tran LLC,Barbados,Finance,1972,20203,312948961.8
+C0037,Hall-Rodriguez,Slovakia (Slovak Republic),Consumer Goods,2006,49672,426924955.7
+C0038,Rowe Group,Turkey,Finance,1955,1380,893495774
+C0039,"Hinton, Patel and Myers",Malawi,Energy,2008,25370,944215858.2
+C0040,Smith Ltd,Cayman Islands,Technology,1982,46193,502334839.2
+C0041,Davis LLC,Serbia,Industrials,1984,56970,624328998.8
+C0042,Sanchez Group,Eritrea,Industrials,2003,96,116502776.7
+C0043,Olsen LLC,Nauru,Technology,1958,66938,317968196.3
+C0044,Cohen Group,Mauritania,Healthcare,1961,10916,415411385.7
+C0045,Heath-Williams,Martinique,Finance,1951,70278,866442848.7
+C0046,Henderson Inc,Hungary,Finance,1959,71691,251204910
+C0047,Collins-Raymond,Dominican Republic,Industrials,2001,3869,483551230
+C0048,"Compton, Maddox and Evans",Azerbaijan,Healthcare,1983,61982,985574225.8
+C0049,Morgan Inc,Guernsey,Technology,1992,54323,519965634.1
+C0050,Hawkins-Miller,Guernsey,Healthcare,1953,83821,613281631.2
+C0051,Thornton-Holloway,Cambodia,Industrials,1970,54974,121508037.3
+C0052,Wu-Barnes,Uganda,Technology,1968,48823,826514459.7
+C0053,Vega-Underwood,Seychelles,Industrials,1980,97582,603457068.3
+C0054,Nash Ltd,Tonga,Technology,1957,99410,545522938.5
+C0055,Nguyen-Robinson,Panama,Consumer Goods,1999,70505,343421069.9
+C0056,Parker-Sawyer,Angola,Healthcare,1968,86024,304816668.2
+C0057,Velez Ltd,Burundi,Healthcare,1999,48348,417605188.8
+C0058,Fleming and Sons,Kiribati,Energy,2018,44316,681619465
+C0059,Smith and Sons,Sao Tome and Principe,Consumer Goods,1965,82575,875581385
+C0060,Moody LLC,Saudi Arabia,Energy,1999,56696,510911915.1
+C0061,Marks-Paul,Romania,Technology,1967,59653,669644469.2
+C0062,Morris Ltd,Kuwait,Industrials,1952,45864,586350616
+C0063,Melendez-Estrada,Palau,Finance,2007,39870,625278598.6
+C0064,Hill Inc,Kyrgyz Republic,Finance,1953,20835,675014361.9
+C0065,Hurst Group,Palestinian Territory,Consumer Goods,1991,67793,842500095.2
+C0066,"Brooks, Krause and Bell",Tanzania,Consumer Goods,1967,45082,84111793.34
+C0067,"Montoya, Rubio and Lara",Oman,Consumer Goods,1963,71544,763919158.6
+C0068,Wilson Inc,Svalbard & Jan Mayen Islands,Industrials,1997,29528,244422708.2
+C0069,Roach and Sons,American Samoa,Consumer Goods,1993,12220,195028737.6
+C0070,"Carter, Snow and Wells",Oman,Healthcare,2014,31931,572884500.5
+C0071,Johnson-Sutton,Denmark,Energy,1991,34724,96616804.1
+C0072,Thomas-Ball,Burundi,Finance,1955,65657,885441499.5
+C0073,Briggs Group,United Kingdom,Technology,1975,66258,627621723.1
+C0074,Jones PLC,Bermuda,Energy,1952,25499,723692941.8
+C0075,"Reed, Martinez and Little",Belize,Healthcare,1979,11204,17113077.49
+C0076,Gonzalez Ltd,Oman,Consumer Goods,1990,11026,594837447.6
+C0077,Johnson PLC,Cote d'Ivoire,Healthcare,2020,70525,557228407.2
+C0078,Waller and Sons,Albania,Energy,2018,17803,159800684.5
+C0079,Keller-Kim,Bangladesh,Finance,2013,95806,153917444.6
+C0080,Ellis Inc,Comoros,Finance,1953,33716,695833999.2
+C0081,"Savage, Burton and Perez",Isle of Man,Industrials,2012,44682,319447660
+C0082,Curtis-Peters,Taiwan,Finance,1978,65750,692278325.2
+C0083,"Williams, Roberts and Nelson",Colombia,Energy,1950,78850,554828866.5
+C0084,Wallace-Keller,Turks and Caicos Islands,Consumer Goods,2013,45059,389561623.6
+C0085,Dorsey-Fox,Lebanon,Industrials,1965,90656,925207357.1
+C0086,Haynes Group,Saint Vincent and the Grenadines,Technology,1996,60442,841828326.9
+C0087,"Farley, Freeman and Adams",Antigua and Barbuda,Healthcare,2003,41404,358040169.1
+C0088,"Hancock, Pratt and Landry",Namibia,Healthcare,1977,58907,44547872.34
+C0089,Benton and Sons,Vanuatu,Healthcare,1974,23731,305463305.3
+C0090,Ford-Wilkinson,Svalbard & Jan Mayen Islands,Finance,1957,54409,398787496.2
+C0091,Guerra PLC,Malaysia,Finance,2014,34846,705253871.6
+C0092,Bauer-Richardson,Austria,Energy,1998,48352,995363123.6
+C0093,"Hanson, Callahan and Ruiz",Heard Island and McDonald Islands,Technology,1987,16083,356558950.9
+C0094,Ross-Phelps,South Africa,Healthcare,2014,79407,762785266
+C0095,Murphy-Rubio,Eritrea,Healthcare,1957,49934,593583739.7
+C0096,Smith-Noble,Lesotho,Technology,1999,39176,692010096.9
+C0097,Lopez-Davis,Paraguay,Technology,2009,75223,151976324.9
+C0098,"Davis, Spence and Gross",Croatia,Industrials,1991,31857,399477416.4
+C0099,Elliott-Diaz,Djibouti,Industrials,2007,34903,241615041.8
+C0100,Wright-Hanna,Thailand,Finance,1994,32610,344112558
+C0101,Perry Inc,Moldova,Industrials,2008,65716,513615026
+C0102,Ho-Bradford,Hong Kong,Consumer Goods,1985,44244,666957925.6
+C0103,"Simpson, House and Jordan",Oman,Technology,1973,16216,106802576.6
+C0104,Brown PLC,Madagascar,Technology,2004,86584,131764055.7
+C0105,"Whitney, Frye and White",Italy,Finance,1966,62613,322658625.9
+C0106,"Johnson, Avila and Moore",Micronesia,Consumer Goods,1955,61694,661902772.3
+C0107,"Smith, Combs and Norris",Barbados,Consumer Goods,1968,42758,846659719.1
+C0108,Carpenter-Parker,Venezuela,Healthcare,1978,78390,553704087.5
+C0109,White and Sons,New Zealand,Technology,2009,66125,854598035
+C0110,"Smith, Willis and Miller",Iran,Consumer Goods,1986,92553,385452973.5
+C0111,Parker-Brown,United Kingdom,Consumer Goods,1951,42074,317471109.2
+C0112,Young-Ward,Madagascar,Industrials,1999,29878,354910410.9
+C0113,Everett Group,Latvia,Industrials,1958,33258,171910747.4
+C0114,Harrison PLC,Madagascar,Healthcare,1971,54583,829283521.9
+C0115,Lopez-Gilbert,British Indian Ocean Territory (Chagos Archipelago),Healthcare,2004,5739,339332175.1
+C0116,Lane Inc,Lesotho,Consumer Goods,1951,65167,552817705.2
+C0117,Knight Inc,Bulgaria,Industrials,1971,26033,578972916.6
+C0118,Todd-Woods,Lithuania,Technology,1984,68832,522011526.3
+C0119,Rodriguez-Newton,United States of America,Energy,2017,25485,3685376.51
+C0120,"Bentley, Nelson and Perez",Bahamas,Healthcare,2013,61311,988357073.9
+C0121,"Byrd, Welch and Marshall",Benin,Energy,1986,69231,905436234.1
+C0122,Bishop Group,Pitcairn Islands,Technology,1963,58077,208428225.3
+C0123,Hahn-Hernandez,Armenia,Consumer Goods,2019,73109,293196923.4
+C0124,"Ward, Castillo and Hendricks",Ethiopia,Healthcare,1974,68300,520490142.9
+C0125,"Huffman, Green and Hahn",Monaco,Technology,2000,53319,902009461.3
+C0126,Fletcher-Graham,New Caledonia,Finance,1964,7934,983647254
+C0127,Howard-Benson,France,Consumer Goods,2005,99887,258284522.1
+C0128,Nunez Group,Gabon,Industrials,2005,67852,564794683.9
+C0129,Smith Ltd,Reunion,Healthcare,1969,64697,807161715.5
+C0130,Sanchez PLC,Gibraltar,Energy,1974,27788,394975683.9
+C0131,Whitehead and Sons,Chile,Energy,1954,32094,731341962.8
+C0132,"Graham, Patterson and Robinson",Monaco,Energy,1959,52957,161907945.4
+C0133,Osborn-Henderson,Guyana,Technology,1951,54080,601097869.3
+C0134,Jimenez-Ross,Greenland,Industrials,1991,71736,865998593.8
+C0135,"Cruz, Miller and Fisher",Vietnam,Technology,1955,32363,983538087.6
+C0136,Berry LLC,Saint Pierre and Miquelon,Industrials,2005,91646,80286424.59
+C0137,"Smith, Jimenez and Osborn",Guernsey,Healthcare,1973,39920,428918927.4
+C0138,Mueller Ltd,Czech Republic,Technology,1986,87992,205338316.7
+C0139,Russell-Hopkins,Falkland Islands (Malvinas),Industrials,1991,27838,451185854
+C0140,Tucker-Gardner,Bulgaria,Consumer Goods,1953,98178,548215809.1
+C0141,Pierce-Mason,Bangladesh,Healthcare,1969,61115,94233383.66
+C0142,Jones Inc,Benin,Energy,2003,29154,297563914.7
+C0143,Hernandez-Moore,Brunei Darussalam,Consumer Goods,2005,51256,927656655.9
+C0144,Johnson-Lee,Sierra Leone,Consumer Goods,1974,51179,569434727.7
+C0145,Williams-Neal,Solomon Islands,Technology,2013,5632,457954585.5
+C0146,"Barker, Rhodes and Compton",Ukraine,Healthcare,1967,62393,753772464.8
+C0147,Pearson and Sons,Brazil,Industrials,1963,16562,742120289.7
+C0148,Johnson-Dunn,Egypt,Technology,2008,46303,49530453.81
+C0149,Hughes-Santiago,Cayman Islands,Consumer Goods,1952,58381,708988698.1
+C0150,Smith Inc,Trinidad and Tobago,Consumer Goods,1995,37897,839404104.5
+C0151,"Burgess, Lee and Shaw",Trinidad and Tobago,Healthcare,1977,51244,166771946.3
+C0152,"Williamson, Boyd and Williams",Yemen,Technology,1963,66702,781216940.1
+C0153,"Garcia, Allen and Kelly",Niue,Technology,1991,96536,287250080.1
+C0154,"Reese, Harris and Alexander",Zimbabwe,Technology,1976,50418,307163283.6
+C0155,Cook-Hill,Czech Republic,Energy,2003,16584,665596203.9
+C0156,Colon PLC,Honduras,Finance,1967,746,112280779.4
+C0157,Hill-Pena,France,Energy,1961,43438,665207576.4
+C0158,Edwards Ltd,Comoros,Technology,1962,19240,887968935.9
+C0159,Rowe-Pierce,Niue,Energy,2008,56437,696614957
+C0160,Mccann LLC,Saint Kitts and Nevis,Energy,2001,7865,440887548.8
+C0161,Durham-Garcia,Malaysia,Technology,1969,15042,438776170
+C0162,Mcbride-Hobbs,Bahrain,Finance,1961,17656,765330999.1
+C0163,"Warner, Kelly and Livingston",Zimbabwe,Industrials,1955,47096,566076359.2
+C0164,Farrell-Santiago,United Arab Emirates,Finance,1976,31394,85819259.03
+C0165,White Group,Bosnia and Herzegovina,Energy,2005,44805,583088416.8
+C0166,"Nixon, Davis and Dominguez",Cocos (Keeling) Islands,Industrials,1968,11768,815028859.2
+C0167,"Moody, Barrera and Gardner",Saint Barthelemy,Industrials,1951,38281,337729317.1
+C0168,Jackson-Jackson,Lesotho,Healthcare,2001,45342,927649003
+C0169,Sexton-Lewis,Cook Islands,Energy,1957,7646,750966283.3
+C0170,Peterson Inc,Malaysia,Consumer Goods,1958,14510,574489761.3
+C0171,"Bartlett, Bond and Berry",Myanmar,Energy,1986,30782,751892344.8
+C0172,Lee LLC,Seychelles,Energy,1950,79308,80069811.78
+C0173,Cunningham PLC,San Marino,Industrials,2019,34556,859529686.6
+C0174,Gonzalez-Blankenship,Switzerland,Finance,1997,48626,821682609.1
+C0175,"Johnson, Schultz and Sutton",Equatorial Guinea,Industrials,1966,54689,909961788
+C0176,"Johnson, Brown and Sanders",Dominica,Technology,1987,45906,129502566.3
+C0177,Estes Ltd,Burundi,Healthcare,1950,45996,82698307.01
+C0178,Patel-Diaz,Brunei Darussalam,Consumer Goods,1950,84801,139277157.2
+C0179,Lee PLC,Morocco,Healthcare,1960,49663,399979331.4
+C0180,Martinez-Johnson,Spain,Industrials,1973,80005,424882554.2
+C0181,Roberts-Brown,Djibouti,Healthcare,2006,13762,562656160.4
+C0182,Smith Group,Burkina Faso,Industrials,2018,26097,123121306.1
+C0183,Harris LLC,Niger,Finance,1959,25173,202198101.9
+C0184,"Burns, Mason and Valencia",Mongolia,Energy,1995,56066,811832703.9
+C0185,Jordan-Tucker,Fiji,Finance,1986,85703,468519586.5
+C0186,Harris-Murphy,United States Virgin Islands,Consumer Goods,2019,21461,808130271.3
+C0187,"Adams, Manning and Herrera",India,Finance,1953,34176,8418952.17
+C0188,Garcia Inc,Kuwait,Industrials,1953,82020,552041133.3
+C0189,Thomas-Harris,Solomon Islands,Industrials,1970,25304,932000215.9
+C0190,"Savage, Mullins and Young",Comoros,Healthcare,1973,13263,582593283.7
+C0191,Houston-Carrillo,Spain,Energy,1962,35498,206889631.7
+C0192,"Sandoval, Fowler and Osborne",Liberia,Technology,1959,47381,718039804.7
+C0193,Garcia-Garner,Czech Republic,Technology,1982,47386,379606863.9
+C0194,"Sanchez, Moore and Kennedy",Jordan,Energy,1982,53887,668715563.3
+C0195,Sparks-Williamson,Zimbabwe,Technology,1983,68131,30290403.17
+C0196,"Malone, Bryan and Carroll",Andorra,Consumer Goods,1965,87374,636264459
+C0197,Gonzalez-Morrison,Micronesia,Consumer Goods,1965,43276,33165737
+C0198,"Kim, Taylor and Potter",Kuwait,Healthcare,1989,57657,745035874.5
+C0199,Henderson-Conner,Mali,Energy,1950,12314,473440089.2
+C0200,Herrera and Sons,Greece,Technology,1962,57845,122632601.1
+C0201,Williams LLC,Qatar,Finance,1995,88404,543093289.9
+C0202,"Villegas, Strickland and Salazar",South Georgia and the South Sandwich Islands,Energy,1966,50829,67707668.78
+C0203,Erickson-Stout,Thailand,Technology,2003,27530,653711506.5
+C0204,Morrison PLC,Saint Helena,Energy,1950,54734,996090241
+C0205,Duke-Dougherty,Anguilla,Energy,1960,22941,769627939.7
+C0206,"Nash, Pierce and Snyder",Benin,Consumer Goods,1984,55270,574200339.6
+C0207,Perry-Barnett,Cuba,Energy,1999,40102,103532624
+C0208,"Jackson, Young and Smith",Tunisia,Technology,1953,16042,700134240.7
+C0209,Michael Group,Macedonia,Consumer Goods,2000,34930,661506699.5
+C0210,Odonnell and Sons,Syrian Arab Republic,Consumer Goods,1956,83688,50048033.49
+C0211,"Alvarez, Mills and Fox",Portugal,Industrials,2019,93676,792507002.5
+C0212,Frey-Brown,Liberia,Energy,1989,40866,519197874.3
+C0213,Stevens-Anderson,Niue,Consumer Goods,2020,86794,426441826.5
+C0214,"Powell, Hill and Riggs",Lebanon,Healthcare,1952,87289,788398986.4
+C0215,Morse Inc,Germany,Energy,1989,37390,412157654
+C0216,Owens-Glass,Lao People's Democratic Republic,Energy,2004,27832,481545249.2
+C0217,"Roberts, Thomas and Farmer",Cocos (Keeling) Islands,Finance,1955,55457,182447213.8
+C0218,"Davidson, Peterson and Hanson",Colombia,Technology,1969,22352,321997580.6
+C0219,"Sanchez, Williams and Gardner",Central African Republic,Industrials,1956,72123,845687463.6
+C0220,Anderson PLC,Tajikistan,Energy,1958,58898,187716845.2
+C0221,Hardy-Morrison,French Guiana,Consumer Goods,1974,52573,417873769.8
+C0222,Dorsey-Gutierrez,Togo,Consumer Goods,2005,93260,989045472.9
+C0223,"Buchanan, Gamble and Tran",Saint Vincent and the Grenadines,Consumer Goods,1996,9828,237363211.9
+C0224,Padilla-Holmes,Benin,Energy,1961,57632,916915500.6
+C0225,"Bishop, Lewis and King",Svalbard & Jan Mayen Islands,Technology,2018,40873,918479070.3
+C0226,Stewart-Figueroa,Kyrgyz Republic,Industrials,1953,27343,92205045.86
+C0227,"Kennedy, Martin and Shepard",Norfolk Island,Industrials,1954,20521,464189072.2
+C0228,"Bryan, Garza and Wilson",Pakistan,Industrials,2017,12975,502714119
+C0229,Lowe Ltd,British Virgin Islands,Industrials,1956,54023,314355281.1
+C0230,"King, Hodge and Torres",Botswana,Industrials,2010,80693,48292197.7
+C0231,Bowman and Sons,Sweden,Finance,1992,86807,242443951.6
+C0232,"Carrillo, White and Johnson",Luxembourg,Energy,2001,56232,96434111.91
+C0233,"Benton, Baldwin and Ruiz",Yemen,Industrials,1963,11493,239011655.8
+C0234,"Holmes, Walker and Wright",Bangladesh,Technology,1977,20003,807983295.2
+C0235,"Richardson, Davis and Banks",Burkina Faso,Industrials,1967,92577,895083309.6
+C0236,Chavez Inc,Korea,Industrials,1988,47863,44179669.19
+C0237,Johnson Inc,Christmas Island,Consumer Goods,2003,92559,302644889.4
+C0238,Calderon-Jones,Armenia,Healthcare,1986,53917,980601616.4
+C0239,Hodges LLC,Saint Lucia,Energy,2018,69405,539965317.7
+C0240,"Brown, Myers and Fisher",Mayotte,Industrials,2020,12059,626683052.4
+C0241,Taylor PLC,Cape Verde,Technology,1968,68173,6539863
+C0242,Martinez Inc,Reunion,Consumer Goods,1962,59562,485424534
+C0243,"Mcdowell, Alexander and Savage",Libyan Arab Jamahiriya,Industrials,1981,82221,988340206.1
+C0244,"Lloyd, Evans and Walter",Comoros,Consumer Goods,2011,3910,375810342
+C0245,Walters and Sons,Armenia,Healthcare,1987,98735,97941120.48
+C0246,Meyer PLC,New Zealand,Finance,1997,84970,462446852.8
+C0247,Estrada Group,Namibia,Industrials,1986,70632,963041461.5
+C0248,"Murray, Wong and Jensen",Spain,Consumer Goods,1993,26091,342488783
+C0249,"Morgan, Mcclain and Haley",Mozambique,Energy,1955,49188,799123810.5
+C0250,Thomas-Burch,Turks and Caicos Islands,Technology,1962,64384,799047484.9
+C0251,"Martin, Smith and Massey",France,Healthcare,2003,86989,209040048.4
+C0252,Sanders Inc,Bouvet Island (Bouvetoya),Energy,1963,86204,443924334.1
+C0253,"Kelley, Thomas and Harrison",Saint Lucia,Consumer Goods,1959,30396,715885673.9
+C0254,"Nguyen, Madden and Sullivan",Saudi Arabia,Consumer Goods,1999,17849,411109265.6
+C0255,Allen LLC,Saint Barthelemy,Consumer Goods,1962,64027,191815948.4
+C0256,Howard-Lopez,Martinique,Consumer Goods,1979,82249,967526812.5
+C0257,"Wade, Fields and Oneill",Bouvet Island (Bouvetoya),Consumer Goods,2013,43991,651099616.1
+C0258,Kelly Inc,Bolivia,Healthcare,2003,85062,865594391.7
+C0259,Soto-Jacobs,Canada,Healthcare,1993,88666,26217115.44
+C0260,Ross-Turner,Botswana,Finance,1972,30888,267638909
+C0261,Howard-Blair,Congo,Technology,1956,90601,502569029.2
+C0262,Delacruz PLC,Afghanistan,Consumer Goods,1968,48417,68381186.49
+C0263,"Ferguson, Gallegos and Knight",Cameroon,Technology,1967,19339,993040227.8
+C0264,Mcintosh PLC,Western Sahara,Industrials,1971,89894,237225933.8
+C0265,"Black, Gonzalez and Ellis",Netherlands,Industrials,2001,97613,374917890.2
+C0266,"Ibarra, Rhodes and Vaughan",Sierra Leone,Energy,1981,66717,214797903
+C0267,West-Baldwin,Guinea,Industrials,1973,63738,106340420.2
+C0268,Miller-Sparks,Trinidad and Tobago,Consumer Goods,1950,61732,233247305.8
+C0269,Franklin-Bowen,Colombia,Energy,1985,45949,301309525.4
+C0270,Gregory PLC,Brunei Darussalam,Industrials,2014,83734,634807825.6
+C0271,Bradshaw-Myers,Andorra,Finance,1978,8817,281953546.7
+C0272,"Duarte, Rodriguez and Delgado",Macao,Finance,2010,51995,362914484.2
+C0273,"Cabrera, Barnes and Irwin",Anguilla,Healthcare,1956,83656,6936900.88
+C0274,Villarreal-Garcia,Australia,Finance,2003,91435,366353406.8
+C0275,James and Sons,Honduras,Technology,1991,58168,534352095.7
+C0276,Thornton-Williams,Swaziland,Finance,1951,14684,162853821.2
+C0277,Thompson PLC,United States Virgin Islands,Technology,1995,47909,597835675.3
+C0278,Vaughan Inc,Syrian Arab Republic,Healthcare,1980,91849,293859316.2
+C0279,Norman PLC,Eritrea,Consumer Goods,2010,95665,632418444.3
+C0280,"Cross, Jones and Guerrero",Guadeloupe,Consumer Goods,1993,87288,27170408.65
+C0281,Pierce-Murphy,Congo,Energy,1954,24252,887705867
+C0282,Knox and Sons,Cayman Islands,Energy,2007,26570,17102511.79
+C0283,Wise LLC,Switzerland,Industrials,2010,56223,127831073
+C0284,Lee Group,Lao People's Democratic Republic,Industrials,1951,45687,777385299.1
+C0285,Hamilton-Mcmillan,Lithuania,Industrials,1966,35330,46849336.97
+C0286,Beard Ltd,Holy See (Vatican City State),Healthcare,2019,40781,711287694.9
+C0287,Lowe-Stokes,Japan,Industrials,1959,45400,971075094.4
+C0288,"Maldonado, Thomas and Sutton",Timor-Leste,Energy,1956,15529,871811250.2
+C0289,Lane-Nichols,Reunion,Consumer Goods,1966,67826,710451489.7
+C0290,Williams-Harrison,Botswana,Technology,2012,67606,958551233.3
+C0291,Decker-Wong,Cayman Islands,Finance,2001,92360,430383524.6
+C0292,Anderson-Kane,Equatorial Guinea,Finance,1958,24748,873006035.4
+C0293,Forbes-Martinez,Bouvet Island (Bouvetoya),Energy,1994,30050,356601710.3
+C0294,Knight and Sons,Jordan,Healthcare,2003,96664,929833889.3
+C0295,Williams Ltd,Bouvet Island (Bouvetoya),Finance,1964,51943,149628878.6
+C0296,Jenkins-Reeves,Korea,Technology,1995,66853,940088985.9
+C0297,"Banks, Allen and Olsen",Bulgaria,Finance,1963,25734,832883481.1
+C0298,"Freeman, Gallegos and Swanson",Argentina,Healthcare,1961,90806,846208783.4
+C0299,"Phillips, Perez and Finley",Iraq,Technology,1997,22976,124799086.9
+C0300,Randall Ltd,Cote d'Ivoire,Energy,1960,8621,596890411.4
